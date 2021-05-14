@@ -1,6 +1,6 @@
 # About Me
 
-- 👋 Hi, I’m @MoldyMacaroniX
+- 👋 Hi, I’m [@MoldyMacaroniX](https://github.com/MoldyMacaroniX)
 - 👀 I’m interested in ... all things computer science. Not to say I am any good at it yet!
 - 🌱 I’m currently learning ... general purpose programming (excuse my lack of specificity).
 - 💞️ I’m looking to collaborate on ... nothing at the moment.
