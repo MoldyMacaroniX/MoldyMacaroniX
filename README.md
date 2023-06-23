@@ -1,4 +1,9 @@
-# MoldyMacaroniX
+![Banner](https://pbs.twimg.com/profile_banners/1262828854630023168/1600378792/1500x500)
 
-- [Geometry Dash YouTuber](https://www.youtube.com/moldymacaronix) who occasionally codes.
-- Creator of [Dashword.net](https://www.dashword.net), a website for written Geometry Dash content.
+# Moldy
+
+I am Moldy, a Geometry Dash YouTuber and Streamer | Business Inquiries: contact@moldygd.com
+
+- [My Website](https://www.moldygd.com/)
+- [My YouTube](https://www.youtube.com/@MoldyGD)
+- [My Socials](https://bio.link/Moldy)
