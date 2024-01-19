@@ -2,7 +2,7 @@
 
 # Moldy
 
-I am Moldy, a Geometry Dash YouTuber and Streamer | Business Inquiries: contact@moldygd.com
+I am Moldy, a Geometry Dash YouTuber and Streamer | Business Inquiries: moldy@moreyellow.com
 
 - [My Website](https://www.moldygd.com/)
 - [My YouTube](https://www.youtube.com/@MoldyGD)
