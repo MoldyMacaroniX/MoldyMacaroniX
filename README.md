@@ -2,8 +2,8 @@
 
 # Moldy
 
-I am Moldy, a Geometry Dash YouTuber and Streamer | Business Inquiries: moldy@moreyellow.com
+I am Moldy, a Geometry Dash YouTuber | Business Inquiries: moldy@moreyellow.com
 
 - [My Website](https://www.moldygd.com/)
-- [My YouTube](https://www.youtube.com/@MoldyGD)
-- [My Socials](https://bio.link/Moldy)
+- [My YouTube]([https://www.youtube.com/@MoldyGD](https://link.moldygd.com/youtube))
+- [My Socials](https://link.moldygd.com/links)
