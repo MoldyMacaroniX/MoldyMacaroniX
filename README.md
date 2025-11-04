@@ -2,7 +2,7 @@
 
 # Moldy
 
-Not literally, of course! | Business Inquiries: moldy@moreyellow.com
+I promise I'm fresh despite the name!
 
 - [My Website](https://www.moldygd.com/)
 - [My YouTube](https://link.moldygd.com/youtube)
